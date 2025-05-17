@@ -28,9 +28,15 @@ Cinema ticket reservation system built using **ASP.NET**, **Visual Studio**, and
 3. Update `Web.config` if needed.
 4. Run project via IIS Express.
 
-## 📎 Screenshots
-![Login](./screenshots/login-page.png)
-![Booking](./screenshots/booking-page.png)
+## 🖼 Screenshots
+
+| Page | Screenshot |
+|------|------------|
+| Admin Login | ![](screenshots/admin-main-page.png) |
+| Customer Login | ![](screenshots/customer-login.png) |
+| Booking Page | ![](screenshots/booking-ticket.png) |
+| Feedback Form | ![](screenshots/feedback-form.png) |
+
 
 ## 📄 License
 Open-source for educational use.
