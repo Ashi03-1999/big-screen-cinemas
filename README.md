@@ -33,7 +33,7 @@ Cinema ticket reservation system built using **ASP.NET**, **Visual Studio**, and
 | Page | Screenshot |
 |------|------------|
 | Flash Screen | ![](screenshots/splash-screen.png). |
-| Main Page | ![](screnshots/main-page.png). |
+| Main Page | ![](screenshots/main-page.png). |
 | Admin Login | ![](screenshots/admin-main-page.png) |
 | Admin Screen Details | ![](screenshots/admin-screen-details.png) |
 | Admin Movie Details | ![](screenshots/admin-movie-details.png). |
