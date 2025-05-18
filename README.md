@@ -36,8 +36,8 @@ Cinema ticket reservation system built using **ASP.NET**, **Visual Studio**, and
 | Main Page | ![](screnshots/main-page.png). |
 | Admin Login | ![](screenshots/admin-main-page.png) |
 | Admin Screen Details | ![](screenshots/admin-screen-details.png) |
-| Admin Movie Details | ![](screnshots/admin-movie-details.png). |
-| View Ticket Booking Details | ![](screenshots/ticket-booking-details.png.png) |
+| Admin Movie Details | ![](screenshots/admin-movie-details.png). |
+| View Ticket Booking Details | ![](screenshots/ticket-booking-details.png) |
 | Customer Signup Page | ![](screenshots/customer-signup.png) |
 | Customer Login | ![](screenshots/customer-login.png) |
 | Customer Main Page | ![](screenshots/customer-main.png) |
